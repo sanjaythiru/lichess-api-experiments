@@ -1,0 +1,4 @@
+{
+  "Bullet leaderboard": "https://lichess.org/api/player/top/100/bullet",
+  "Game ": "https://lichess.org/api/user/chess17140/current-game -H Content-Type application/json"
+}
