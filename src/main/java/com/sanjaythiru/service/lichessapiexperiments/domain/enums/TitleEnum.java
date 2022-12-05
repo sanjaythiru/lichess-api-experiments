@@ -2,10 +2,13 @@ package com.sanjaythiru.service.lichessapiexperiments.domain.enums;
 
 public enum TitleEnum {
     GM,
-    IM,
-    FM,
-    CM,
     WGM,
+    IM,
     WIM,
-    WFM
+    FM,
+    WFM,
+    NM,
+    CM,
+    WCM,
+    WNM
 }

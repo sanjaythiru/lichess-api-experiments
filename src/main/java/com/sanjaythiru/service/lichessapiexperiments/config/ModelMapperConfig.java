@@ -1,7 +1,7 @@
 package com.sanjaythiru.service.lichessapiexperiments.config;
 
 import com.sanjaythiru.service.lichessapiexperiments.domain.User;
-import com.sanjaythiru.service.lichessapiexperiments.lichessdto.UserLichessDto;
+import com.sanjaythiru.service.lichessapiexperiments.lichessdto.subdto.UserLichessDto;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.convention.MatchingStrategies;
 import org.springframework.context.annotation.Bean;

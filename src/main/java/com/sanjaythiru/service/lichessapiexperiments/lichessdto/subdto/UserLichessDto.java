@@ -1,4 +1,4 @@
-package com.sanjaythiru.service.lichessapiexperiments.lichessdto;
+package com.sanjaythiru.service.lichessapiexperiments.lichessdto.subdto;
 
 import com.sanjaythiru.service.lichessapiexperiments.domain.enums.TitleEnum;
 import lombok.Data;
